@@ -1,0 +1,1 @@
+Stores execution details for the latest cron invocation
